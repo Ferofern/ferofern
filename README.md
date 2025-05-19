@@ -15,7 +15,7 @@ Me considero una persona proactiva, adaptable y comprometida. Me destaco por mi 
 **Estado:** Completado  
 - [Repositorio de generación de tablas](https://github.com/Ferofern/generadorTablasBingo)  
 - [Repositorio del juego completo](https://github.com/Ferofern/BingoFacil)
-![demostracion](./Captura de pantalla 2025-05-19 143410.png)
+![Captura de pantalla del proyecto](./Captura%20de%20pantalla%202025-05-19%20143410.png)
 ---
 
 ### ContaVotos
